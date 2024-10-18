@@ -1,0 +1,5 @@
+sceneSetups:
+- path: C:/Users/Micro/Desktop/B00164888/Prototype 02/Assets/Scenes/Prototype 2.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0

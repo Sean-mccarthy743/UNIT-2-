@@ -1,0 +1,109 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - DestroyOutOfBoundsX
+    - DetectCollisionsX
+    - MoveForwardX
+    - PlayerControllerX
+    - SpawnManagerX
+  serializedClasses: {}
+  methodsToPreserve: []
+  sceneClasses:
+    Assets/Challenge 2/Challenge 2.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 54
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 74
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 89
+      Script: {instanceID: 0}
+    - Class: 90
+      Script: {instanceID: 0}
+    - Class: 91
+      Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 1730}
+    - Class: 114
+      Script: {instanceID: 1734}
+    - Class: 114
+      Script: {instanceID: 1738}
+    - Class: 114
+      Script: {instanceID: 1744}
+    - Class: 114
+      Script: {instanceID: 1748}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 137
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 258
+      Script: {instanceID: 0}
+    - Class: 850595691
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: e9bb40589586a8d48fdf1c16d475b0d7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DetectCollisionsX
+  - hash:
+      serializedVersion: 2
+      Hash: 2aa00d452dbd6b6ef4eca352d7b3cc23
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: SpawnManagerX
+  - hash:
+      serializedVersion: 2
+      Hash: 70310a966efa6e0b2be292134a6bf10b
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: MoveForwardX
+  - hash:
+      serializedVersion: 2
+      Hash: 953dd0d517e35e24593e7a06d7dc0392
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: PlayerControllerX
+  - hash:
+      serializedVersion: 2
+      Hash: 32f3652e045b88d7e860d1db24b6deb7
+    assemblyName: Assembly-CSharp
+    namespaceName: 
+    className: DestroyOutOfBoundsX
+  platform: 20
+  scenePathNames:
+  - Assets/Challenge 2/Challenge 2.unity
+  playerPath: C:/Users/Micro/Desktop/Unit 2
